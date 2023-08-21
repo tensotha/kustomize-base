@@ -10,3 +10,4 @@ spec:
     metadata:
       labels:
         app: sl-demo-app
+        istio: injection-enabled
